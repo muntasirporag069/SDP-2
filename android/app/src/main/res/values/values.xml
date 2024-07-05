@@ -1,0 +1,6 @@
+<resources>
+    <string name="google_api_key" translatable="false">AIzaSyCOBge3pG29fToSid3buKrXh6sjQF8aZFk</string>
+    <string name="gcm_defaultSenderId" translatable="false">935613830937</string>
+    <string name="google_app_id" translatable="false">1:935613830937:android:5246ccffad1043ef4d1788</string>
+    <string name="project_id" translatable="false">flutterfire-ui-codelab-d30ba</string>
+</resources>
